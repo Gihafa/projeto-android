@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "UTF-8"; /* Para o site ter compatibilidade com caracteres / Ex: acentos, ç e entre outros*/
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;700&display=swap');
